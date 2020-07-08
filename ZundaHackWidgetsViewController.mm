@@ -21,7 +21,7 @@
 }
 
 -(void)OpenSite {
-    NSString *url = @"https://zunda-hack.com"
+    NSString *url = @"https://zunda-hack.com";
     [[UIApplication sharedApplication] openURL:[NSURL URLWithString:url]];
 }
 @end
