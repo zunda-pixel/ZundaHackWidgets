@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>com.zunda.zundahackwidgets</string>
+	<key>NSPrincipalClass</key>
+	<string>HSCustomWidgetViewController</string>
+	<key>HSWidgetDisplayName</key>
+	<string>ZundaHack</string>
+	<key>HSWidgetIcon</key>
+	<string>icon.png</string>
+	<key>HSWidgetCreator</key>
+	<string>zunda</string>
+</dict>
+</plist>

@@ -1,0 +1,9 @@
+Package: com.zunda.zundahackwidgets
+Name: ZundaHackWidgets
+Depends: mobilesubstrate, com.dgh0st.hswidgets
+Version: 1.0
+Architecture: iphoneos-arm
+Description: An awesome HSWidgets extension!
+Maintainer: zunda <zunda.pixel@gmail.com>
+Author: zunda <zunda.pixel@gmail.com>
+Section: Addons (HSWidgets)
